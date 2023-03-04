@@ -6,4 +6,4 @@
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-*visist https://zerotomastery.io/ for more*
+*visit https://github.com/sanyamvatta/face-recognition-backend for backend code*
